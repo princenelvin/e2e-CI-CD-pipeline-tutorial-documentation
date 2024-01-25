@@ -1,3 +1,5 @@
+# For updated configuration, follow this: https://www.jenkins.io/doc/book/system-administration/reverse-proxy-configuration-with-jenkins/reverse-proxy-configuration-nginx/
+
 # Install Nginx Reverse Proxy for Jenkins
 Nginx is one of the most popular web servers in the world and is responsible for hosting some of the largest and highest-traffic sites on the internet. It is a lightweight choice that can be used as either a web server or reverse proxy.
 
